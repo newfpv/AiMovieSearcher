@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  parser-bot:
+    build: .
+    container_name: movie-searcher-bot
+    restart: unless-stopped
+    environment:
+      - TG_BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN_HERE
+      - API_KEYS=YOUR_API_KEY_1,YOUR_API_KEY_2,YOUR_API_KEY_3
+      # Examples: 
+      # -1001:45 -> works only in thread 45 of group -1001
+      # -1002    -> works in the entire group -1002
+      # 12345678 -> works in private messages with user 12345678
+      - GROUP_THREAD_MAP=1234567890;-1234567890;-123456789012:3
+    volumes:
+      - ./:/app
