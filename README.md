@@ -23,10 +23,10 @@ Google provides free API keys for their neural networks, subject to requests-per
 4. Generate and copy your key. *(Tip: It is highly recommended to generate multiple keys from different accounts to ensure stable bot performance).*
 
 ### 📊 Free Model Limits:
-- **Gemini 3 Flash:** 5 requests / day
-- **Gemini 2.5 Flash:** 5 requests / day
-- **Gemini 3.1 Flash Lite:** 15 requests / day
-- **Gemini 2.5 Flash Lite:** 15 requests / day
+- **Gemini 3 Flash:** 20 requests / day
+- **Gemini 2.5 Flash:** 20 requests / day
+- **Gemini 3.1 Flash Lite:** 500 requests / day
+- **Gemini 2.5 Flash Lite:** 20 requests / day
 
 ## 🛠 Customization
 You can easily tweak the bot's behavior by editing the source code:
