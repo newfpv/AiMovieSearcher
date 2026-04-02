@@ -71,4 +71,4 @@ docker-compose up -d --build
 
 ## ☕ Support
 
-\<div align="left"\>\<a href="https://www.donationalerts.com/r/newfpv"\>\<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg" alt="Donate"\>\</a\>\</div\>
+<div align="left"><a href="https://www.donationalerts.com/r/newfpv"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-yellow.svg" alt="Donate"></a\></div\>
