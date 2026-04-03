@@ -1,17 +1,17 @@
-# Используем легковесный официальный образ Python
+# Use lightweight official Python image
 FROM python:3.11-slim
 
-# Устанавливаем рабочую директорию внутри контейнера
+# Set the working directory inside the container
 WORKDIR /app
 
-# Копируем сначала только requirements, чтобы кэшировать установку библиотек
+# Copy only requirements first to cache the library installation
 COPY requirements.txt .
 
-# Устанавливаем библиотеки без сохранения лишнего кэша
+# Install libraries without saving unnecessary cache
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Копируем все остальные файлы (включая bot.py)
+# Copy all other files (including bot.py and .env)
 COPY . .
 
-# Запускаем бота (-u нужен, чтобы логи сразу выводились в консоль докера)
+# Run the bot (-u is needed so logs are immediately output to the Docker console)
 CMD ["python", "-u", "bot.py"]
