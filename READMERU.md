@@ -12,7 +12,7 @@
 
 [🇬🇧 Translate to English](https://github.com/newfpv/AiMovieSearcher/blob/main/README.md)
 
-<img src="https://github.com/newfpv/AiMovieSearcher/blob/main/demo.webm" alt="Bot Demo" width="600">
+<img src="https://github.com/newfpv/AiMovieSearcher/blob/main/demo.gif" alt="Bot Demo" width="600">
 
 </div>
 
