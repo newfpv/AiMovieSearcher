@@ -12,7 +12,7 @@
 
 [🇷🇺 Read in Russian](https://github.com/newfpv/AiMovieSearcher/blob/main/READMERU.md)
 
-<img src="https://github.com/newfpv/AiMovieSearcher/blob/main/demo.webm" alt="Bot Demo" width="600">
+<img src="https://github.com/newfpv/AiMovieSearcher/blob/main/demo.gif" alt="Bot Demo" width="600">
 
 </div>
 
