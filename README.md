@@ -58,7 +58,7 @@ It has smart API key rotation, built-in settings menu, proxy support, and easy c
 
 ## 🔑 How to get a Google API Key
 
-1. Go to [Google AI Studio](https://aistudio.google.com
+1. Go to [Google AI Studio](https://aistudio.google.com)
 2. Log in using your Google account and click **"Get API key"**.
 3. Generate and copy your key. *(Tip: It is strongly recommended to create 3-4 keys from different accounts and specify them separated by commas in the config for stable operation).*
 
