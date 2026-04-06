@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Google_Gemini-API-orange.svg?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
 <img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge" alt="License">
 
-[🇷🇺 Read in Russian](https://github.com/newfpv/AiMovieSearcher/blob/main/READMERU.md)
+[🇷🇺 Read in Russian](READMERU.md)
 
 <img src="https://github.com/newfpv/AiMovieSearcher/blob/main/demo.gif" alt="Bot Demo" width="600">
 
