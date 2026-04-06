@@ -1,5 +1,5 @@
 aiogram>=3.4.0
 google-genai>=0.3.0
-youtube-transcript-api
+requests
 yt-dlp
 python-dotenv
