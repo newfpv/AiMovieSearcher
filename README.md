@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge" alt="License">
 
 
-[Translate to Russian](https://github.com/newfpv/AiMovieSearcher/blob/main/README.md)
+[Translate to Russian](https://github.com/newfpv/AiMovieSearcher/blob/main/READMERU.md)
 
 
 <img src="https://github.com/newfpv/AiMovieSearcher/blob/main/demo.gif" alt="Bot Demo" width="600"> 
