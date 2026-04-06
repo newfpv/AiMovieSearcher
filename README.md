@@ -4,15 +4,17 @@
 
 **AI-based Telegram bot for movie search**
 
-<img src="[https://img.shields.io/badge/Python-3.11+-blue.svg?style=for-the-badge\&logo=python\&logoColor=white](https://img.shields.io/badge/Python-3.11+-blue.svg?style=for-the-badge&logo=python&logoColor=white)" alt="Python">
-<img src="[https://img.shields.io/badge/Docker-Ready-2496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white](https://img.shields.io/badge/Docker-Ready-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)" alt="Docker">
-<img src="[https://img.shields.io/badge/aiogram-3.x-blue.svg?style=for-the-badge\&logo=telegram\&logoColor=white](https://img.shields.io/badge/aiogram-3.x-blue.svg?style=for-the-badge&logo=telegram&logoColor=white)" alt="aiogram">
-<img src="[https://img.shields.io/badge/Google\_GenAI-API-orange.svg?style=for-the-badge\&logo=google\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Google_GenAI-API-orange.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle%26logoColor%3Dwhite)" alt="Gemini">
-<img src="[https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)" alt="License">
+<img src="https://img.shields.io/badge/Python-3.11+-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Docker-Ready-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/aiogram-3.x-blue.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram">
+<img src="https://img.shields.io/badge/Google_Gemini-API-orange.svg?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
+<img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge" alt="License">
 
-[🇬🇧 Translate to Russian](README.md)
 
-<img src="[https://github.com/newfpv/AiMovieSearcher/blob/main/demo.gif](https://github.com/newfpv/AiMovieSearcher/blob/main/demo.gif)" alt="Bot Demo" width="600">
+[Translate to Russian](https://github.com/newfpv/AiMovieSearcher/blob/main/README.md)
+
+
+<img src="https://github.com/newfpv/AiMovieSearcher/blob/main/demo.gif" alt="Bot Demo" width="600"> 
 
 </div>
 
